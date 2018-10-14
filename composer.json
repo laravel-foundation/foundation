@@ -1,0 +1,36 @@
+{
+    "name": "laravel-foundation/foundation",
+    "description": "The Foundation component from Laravel Foundation.",
+    "keywords": [
+        "laravel",
+        "framework",
+        "illuminate",
+        "foundation"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashley Clarke",
+            "email": "me@ashleyclarke.me"
+        },
+        {
+            "name": "Taylor Otwell",
+            "email": "taylor@laravel.com"
+        }
+    ],
+    "require": {
+        "laravel-foundation/auth": "self.version",
+        "laravel-foundation/bootstrap": "self.version",
+        "laravel-foundation/bus": "self.version",
+        "laravel-foundation/console": "self.version",
+        "laravel-foundation/core": "self.version",
+        "laravel-foundation/events": "self.version",
+        "laravel-foundation/exceptions": "self.version",
+        "laravel-foundation/http": "self.version",
+        "laravel-foundation/providers": "self.version",
+        "laravel-foundation/support": "self.version",
+        "laravel-foundation/testing": "self.version",
+        "laravel-foundation/validation": "self.version"
+    }
+}
